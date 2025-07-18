@@ -325,8 +325,14 @@
         .cv {
             color: white;
             text-decoration: none;
+        }
 
-            &:hover {
-                color: #075eff;
-            }
+        .cv {
+            border-radius: 10px;
+            color: #162443;
+            background-color: white;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 5px;
+            padding-bottom: 5px;
         }
