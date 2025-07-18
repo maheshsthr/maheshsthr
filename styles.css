@@ -68,7 +68,7 @@
         
         .name {
             font-family: 'Poppins', sans-serif;
-            font-size: 3.5rem;
+            font-size: 3rem;
             margin-bottom: 10px;
             font-weight: 700;
             color: white;
@@ -322,6 +322,11 @@
             font-family: "Audiowide", sans-serif;
         }
 
-        .name {
-            font-family: 
+        .cv {
+            color: white;
+            text-decoration: none;
+
+            &:hover {
+                color: #075eff;
+            }
         }
