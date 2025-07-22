@@ -7,85 +7,124 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="icon.png">
 </head>
 <body>
-
-  <header>
-    <h1>Mahesh Suthar</h1>
-    <p>BCA'27</p>
-    <a href="resume.pdf" target="_blank" class="cv-btn">
-      <i class="fas fa-download"></i> Download CV
-    </a>
-  </header>
-
-  <section class="section">
-    <h2>About Me</h2>
-    <div class="card">
-      <p>BCA student with a strong foundation in web development, Excel, and prompt engineering.
-        Passionate about building responsive websites, exploring AI tools, and applying modern tech
-        solutions to real-world problems. Proven project experience and a fast learner eager to grow in
-        the tech industry.
-      </p>
+  <nav>
+    <div class="logo">
+      <span>Mahesh Suthar</span>
     </div>
-  </section>
 
-  <section class="section">
-    <h2>Education</h2>
-    <div class="card">
-      <h3>Bachelor of Computer Applications</h3>
-      <p>LJ College of Computer Applications</p>
-      <p>2024 - 2027</p>
-      <p>Gujarat University</p>
+    <div class="menu-pc">
+      <a href="#">Home</a>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact me</a>
+      <a href="resume.pdf" class="cv" target="_blank">Download CV</a>
     </div>
-  </section>
+  </nav>
 
-  <section class="section">
-    <h2>Skills</h2>
+
+  <a class="top" href="#"><i class="fas fa-arrow-up"></i></a>
+
+  <div class="main">
+    <div class="icon">
+      <img src="icon.png">
+    </div>
+    <div class="content">
+      <h1>Hi, I am <span>Mahesh</span></h1>
+      <h3>Web Developer</h3>
+    </div>
+  </div>
+
+  <div class="sections" id="about">
+    <h3>A B O U T &nbsp;&nbsp; M E</h3>
+    <div class="content">
+      BCA student with a strong foundation in web development, Excel, and prompt engineering.
+      Passionate about building responsive websites, exploring AI tools, and applying modern tech
+      solutions to real-world problems. Proven project experience and a fast learner eager to grow in
+      the tech industry.
+
+    </div>
+  </div>
+
+
+  <div class="sections" id="about">
+    <h3>E D U C A T I O N</h3>
+    <div class="edu">
+      <h3 style="color:black">Bachelor of Computer Applications (Hons)</h3>
+      <h3 class="clg">LJ College of Computer Applications</h3>
+      <p>Gujarat University Ahmedabad</p>
+      <p><span style="color: rgb(0, 119, 255);">2024-2028</span></p>
+    </div>
+  </div>
+
+
+  <div class="sections" id="skills">
+    <h3>S K I L L S</h3>
     <div class="skills">
-      <span><i class="fab fa-html5"></i> HTML</span>
-      <span><i class="fab fa-css3-alt"></i> CSS</span>
-      <span><i class="fab fa-js"></i> JavaScript</span>
-      <span><i class="fas fa-mobile-alt"></i> Responsive Design</span>
-      <span><i class="fas fa-file-excel"></i> MS Excel</span>
-      <span><i class="fas fa-file-word"></i> MS Word</span>
-      <span><i class="fas fa-file-powerpoint"></i> MS PowerPoint</span>
+      <span><i class="fab fa-html5" style="color:orangered"></i> HTML</span>
+      <span><i class="fab fa-css3-alt" style="color:rgb(0, 102, 255)"></i> CSS</span> 
+      <span><i class="fab fa-js" style="color:yellow"></i> JS Basics</span>
+      <span><i class="fas fa-file-excel" style="color:#217346;"></i> Excel</span> 
+      <span><i class="fas fa-file-word" style="color:#2B579A;"></i> Word</span>
     </div>
-  </section>
+  </div>
 
-  <section class="section">
-    <h2>Projects</h2>
-    <div class="card">
-      <h3>Personal Portfolio Website</h3>
-      <p>Responsive blog built with HTML, CSS, JS.</p>
-      <a href="https://github.com/maheshsthr/maheshsthr" target="_blank">View Code</a>
-      <a href="#">Live Demo</a>
+
+  <div class="sections" id="projects">
+    <h3>P R O J E C T S</h3>
+    <div class="projects">
+      <div class="project-card">
+        <span class="head">Personal Portfolio Website</span>
+        <span class="details">Interaticve Personal Portfolio Website made with use of HTML & CSS</span>
+        <div><span>HTML</span> <span>CSS</span></div>
+
+        <div><a href="#">Live Demo</a> <a href="https://github.com/maheshsthr/maheshsthr" target="_blank">View Code</a></div>
+      </div>
+
+      <div class="project-card">
+        <span class="head">Chrome Extension</span>
+        <span class="details">Elegant Google Search extension.</span>
+        <div><span>HTML</span> <span>CSS</span> <span>JS (AI Written)</span></div>
+
+        <div><a href="https://m-extension.vercel.app/" target="_blank">Live Demo</a> <a href="https://github.com/maheshsthr/mextension" target="_blank">View Code</a></div>
+      </div>
+
+      <div class="project-card">
+        <span class="head">Property Listing</span>
+        <span class="details">Property listing for Ahmedabad.</span>
+        <div><span>HTML</span> <span>CSS</span></div>
+
+        <div><a href="https://amdavadbyms.vercel.app/" target="_blank">Live Demo</a> <a href="https://github.com/maheshsthr/amdavadbyms" target="_blank">View Code</a></div>
+      </div>
+
+      <div class="project-card">
+        <span class="head">Calculator (JS)</span>
+        <span class="details">Responsive calculator in JavaScript.</span>
+        <div><span>HTML</span> <span>CSS</span> <span>JS (AI Written)</span></div>
+
+        <div><a href="https://calcbyms.vercel.app/" target="_blank">Live Demo</a> <a href="https://github.com/maheshsthr/calcbyms"  target="blank">View Code</a></div>
+      </div>
     </div>
-    <div class="card">
-      <h3>Chrome Extension</h3>
-      <p>Elegant Google Search extension.</p>
-      <a href="https://github.com/maheshsthr/mextension" target="_blank">View Code</a>
-      <a href="https://m-extension.vercel.app/" target="_blank">Live Demo</a>
-    </div>
-    <div class="card">
-      <h3>Property Listing</h3>
-      <p>Property listing for Ahmedabad.</p>
-      <a href="https://github.com/maheshsthr/amdavadbyms" target="_blank">View Code</a>
-      <a href="https://amdavadbyms.vercel.app/" target="_blank">Live Demo</a>
-    </div>
-    <div class="card">
-      <h3>Calculator</h3>
-      <p>Responsive calculator in JavaScript.</p>
-      <a href="https://github.com/maheshsthr/calcbyms" target="_blank">View Code</a>
-      <a href="https://calcbyms.vercel.app" target="_blank">Live Demo</a>
-    </div>
-  </section>
+  </div>
+
+  <div class="sections" id="contact">
+    <h3>C O N T A C T &nbsp;&nbsp;M E</h3>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="11e9d0b6-172e-4a32-847c-16260bbd2b99">
+      <input type="text" name="name" placeholder="Enter Your Name">
+      <input type="email" name="email" placeholder="Enter Your Email">
+      <textarea placeholder="Enter Your Message" name="message" rows="4"></textarea>
+      <div><input type="submit" value="Send Message">
+      <input type="reset" value="Reset"></div>
+      <input type="hidden" name="redirect" value="https://maheshsthr.vercel.app/thanks.html">
+    </form>
+  </div>
 
   <footer>
-    <a href="https://instagram.com/str_mhes/" target="_blank"><i class="fab fa-instagram"></i></a>
-    <a href="https://www.snapchat.com/add/mahesh_sthr" target="_blank"><i class="fab fa-snapchat"></i></a>
-    <a href="https://github.com/maheshsthr" target="_blank"><i class="fab fa-github"></i></a>
-    <p>Made by Mahesh Suthar</p>
+    Made with 💙 by Mahesh
   </footer>
-
 </body>
 </html>
