@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-  margin: 0;
+  margin: 0px;
   padding: 0;
 }
 
@@ -117,6 +117,18 @@ html {
     justify-content: center;
     align-items: center;
   }
+
+  form {
+    width: 90vw;
+  }
+  form input,textarea {
+    min-width: 80vw;
+  }
+
+  form div {
+    flex-direction: column;
+  }
+  
 }
 /*ENd of media query*/
 
@@ -260,8 +272,9 @@ html {
 #contact form {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   gap:20px;
+  align-items: center;
 }
 
 form input,textarea {
