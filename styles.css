@@ -9,7 +9,9 @@ nav {
   justify-content: space-between;
   box-sizing: border-box;
   padding: 20px;
-  background-color: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.1); /* Transparent white */
+  backdrop-filter: blur(10px); /* Glass blur effect */
+  -webkit-backdrop-filter: blur(30px); /* Safari support */
   color: rgb(0, 0, 0);
   border-bottom: 2px solid rgb(0, 140, 255);
   position: sticky;
@@ -57,6 +59,19 @@ html {
   }
 }
 
+#cv {
+  background-color: rgb(0, 140, 255);
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 0px 4px 0px 0px rgb(0, 86, 225);
+  transition: 0.1s;
+  &:hover {
+    background-color: rgb(0, 110, 200);
+  }
+}
+
 .top {
   position: fixed;
   bottom: 20px;
@@ -98,6 +113,13 @@ html {
     align-items: center;
   }
 
+  .main .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   .main {
     display: flex;
     flex-direction: column;
@@ -127,7 +149,10 @@ html {
     align-items: center;
     justify-content: center;
   }
-  
+  .icon img {
+    width: 60vw;
+    height: auto;
+  }
 }
 /*ENd of media query*/
 
@@ -350,5 +375,20 @@ footer {
   &:hover {
     background-color: white;
     color: rgb(0, 140, 255);
+  }
+}
+
+.menu-pc a {
+  border-bottom: 0px solid transparent;
+  transition: 0.05s;
+  &:hover {
+    border-bottom: 2px solid rgb(0, 140, 255);
+  }
+}
+
+.menu-pc .cv {
+  border: 0px;
+  &:hover {
+    border: 0px;
   }
 }
