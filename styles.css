@@ -9,11 +9,11 @@ nav {
   justify-content: space-between;
   box-sizing: border-box;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.1); /* Transparent white */
-  backdrop-filter: blur(10px); /* Glass blur effect */
-  -webkit-backdrop-filter: blur(30px); /* Safari support */
-  color: rgb(0, 0, 0);
-  border-bottom: 2px solid rgb(0, 140, 255);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(30px);
+  color: #1B3C53;
+  border-bottom: 2px solid #456882;
   position: sticky;
   top:0px;
 }
@@ -27,7 +27,7 @@ html {
   font-weight: bold;
   transition: 0.3s;
   &:hover {
-    color: rgb(0, 140, 255);
+    color: #e0e0e0;
     cursor: pointer;
   }
 }
@@ -37,38 +37,38 @@ html {
   justify-content: space-evenly;
   align-items: center;
   gap:20px;
-  color: rgb(0, 0, 0);
+  color: #1B3C53;
 }
 
 .menu-pc a {
-  color: rgb(0, 0, 0);
+  color: #1B3C53;
   text-decoration: none;
 }
 
 .menu-pc .cv {
-  background-color: rgb(0, 140, 255);
+  background-color: #456882;
   padding: 5px 10px 5px 10px;
   color: white;
   border-radius: 5px;
-  box-shadow: 0px 4px 0px 0px rgb(0, 86, 225);
+  box-shadow: 0px 4px 0px 0px #1B3C53;
   transition: 0.1s;
   &:hover {
-    box-shadow: 0px 1px 0px 0px rgb(0, 86, 225);
+    box-shadow: 0px 1px 0px 0px #1B3C53;
     transform: translateY(3px);
-    background-color: rgb(0, 110, 200);
+    background-color: #1B3C53;
   }
 }
 
 #cv {
-  background-color: rgb(0, 140, 255);
+  background-color: #456882;
   padding: 5px 10px 5px 10px;
   text-decoration: none;
   color: white;
   border-radius: 5px;
-  box-shadow: 0px 4px 0px 0px rgb(0, 86, 225);
+  box-shadow: 0px 4px 0px 0px #1B3C53;
   transition: 0.1s;
   &:hover {
-    background-color: rgb(0, 110, 200);
+    background-color: #1B3C53;
   }
 }
 
@@ -92,15 +92,12 @@ html {
 }
 
 .main .content span {
-  color: rgb(0, 140, 255);
+  color: #456882;
 }
 
 .main .content h3 {
-  color: gray;
+  color: #D2C1B6;
 }
-
-
-
 
 @media (max-width:720px) {
   nav .menu-pc {
@@ -154,10 +151,6 @@ html {
     height: auto;
   }
 }
-/*ENd of media query*/
-
-
-
 
 .sections {
   display: flex;
@@ -169,11 +162,11 @@ html {
 }
 
 .sections h3 {
-  color: rgb(0, 140, 255);
+  color: #456882;
 }
 
 .sections .content {
-  color: rgb(75, 75, 75);
+  color: #1B3C53;
 }
 
 .sections .skills {
@@ -183,24 +176,24 @@ html {
 }
 
 .sections .content span {
-  color: black;
+  color: #1B3C53;
 }
 
 .sections .skills span {
-  background-color: white;
+  background-color: #F9F3EF;
   padding: 8px 22px;
   box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   transition: 0.3s;
   &:hover {
-    background-color: rgb(0, 140, 255);
+    background-color: #456882;
     color: white;
     cursor: pointer;
   }
 }
 
 .project-card {
-  background-color: rgb(253, 253, 253);
+  background-color: #F9F3EF;
   box-sizing: border-box;
   padding: 22px;
   flex-wrap: wrap;
@@ -211,50 +204,49 @@ html {
   flex-direction: column;
   gap:15px;
   border: 2px solid transparent;
-
 }
 
 .project-card .head {
-  color: black;
+  color: #1B3C53;
   font-weight: bold;
   font-size: 20px;
 }
 
 .project-card .details {
-  color: rgb(86, 86, 86);
+  color: #456882;
   flex-wrap: wrap;
 }
 
 .project-card div span {
-  background-color: rgb(233, 250, 255);
+  background-color: #F9F3EF;
   padding: 3px;
   border-radius: 3px;
-  color: rgb(0, 140, 255);
+  color: #456882;
   font-size: 13px;
 }
 
 .project-card div a {
-  background-color: rgb(0, 140, 255);
+  background-color: #456882;
   padding: 4px;
   text-decoration: none;
   color: white;
   border-radius: 6px;
-  border: 2px solid rgb(0, 140, 255);
+  border: 2px solid #456882;
   transition: 0.3s;
   &:hover {
-      color: rgb(0, 140, 255);
-      background-color: white;
+    color: #456882;
+    background-color: white;
   }
   font-size: 13px;
 }
 
 .project-card:hover {
-  border: 2px solid rgb(0, 140, 255);
+  border: 2px solid #456882;
   box-shadow: none;
 }
 
 .top {
-  background-color: rgb(0, 140, 255);
+  background-color: #456882;
   padding: 10px;
   border-radius: 20px;
   font-weight: bold;
@@ -263,10 +255,9 @@ html {
   border: 0px;
   cursor: pointer;
   &:hover {
-    background-color: rgb(0, 86, 225);
+    background-color: #1B3C53;
   }
 }
-
 
 .projects {
   display: flex;
@@ -275,13 +266,13 @@ html {
 }
 
 .sections .contact span {
-  background-color: white;
+  background-color: #F9F3EF;
   padding: 8px 22px;
   box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   transition: 0.3s;
   &:hover {
-    background-color: rgb(0, 140, 255);
+    background-color: #456882;
     color: white;
     cursor: pointer;
   }
@@ -290,7 +281,7 @@ html {
 .contact {
   display: flex;
   flex-wrap: wrap;
-  gap:20px
+  gap:20px;
 }
 
 #contact form {
@@ -306,7 +297,7 @@ form input,textarea {
   resize: none;
   font-family: "Poppins";
   padding: 7px;
-  border: 1.8px solid rgb(0, 0, 0);
+  border: 1.8px solid #1B3C53;
   border-radius: 10px;
 }
 
@@ -317,12 +308,12 @@ form div {
 
 form div input {
   width: 25vw;
-  background-color: white;
-  border: 1.8px solid rgb(0, 0, 0);
-  color: rgb(0, 0, 0);
+  background-color: #F9F3EF;
+  border: 1.8px solid #1B3C53;
+  color: #1B3C53;
   transition: 0.3s;
   &:hover {
-    background-color: rgb(0, 140, 255);
+    background-color: #456882;
     color: white;
     cursor: pointer;
   }
@@ -334,15 +325,16 @@ footer {
   display: flex;
   margin-top: 20px;
   align-items: center;
-  border-top: 2px solid rgb(0, 140, 255);
+  border-top: 2px solid #456882;
+  flex-direction: column;
 }
 
 .edu .clg {
-  color: rgb(84, 84, 84);
+  color: #1B3C53;
 }
 
 .edu {
-  background-color: rgb(253, 253, 253);
+  background-color: #F9F3EF;
   box-shadow: 0px 1px 4px 1px rgba(0, 0, 0, 0.08);
   border-radius: 15px;
   box-sizing: border-box;
@@ -350,7 +342,7 @@ footer {
   border: 2px solid transparent;
   &:hover {
     box-shadow: none;
-    border: 2px solid rgb(0, 140, 255);
+    border: 2px solid #456882;
   }
 }
 
@@ -365,16 +357,16 @@ footer {
 }
 
 .thanks a {
-  background-color: rgb(0, 140, 255);
+  background-color: #456882;
   padding: 5px 10px;
-  border: 2px solid rgb(0, 140, 255);
+  border: 2px solid #456882;
   text-decoration: none;
   border-radius: 10px;
   color: white;
   transition: 0.3s;
   &:hover {
     background-color: white;
-    color: rgb(0, 140, 255);
+    color: #456882;
   }
 }
 
@@ -382,7 +374,7 @@ footer {
   border-bottom: 0px solid transparent;
   transition: 0.05s;
   &:hover {
-    border-bottom: 2px solid rgb(0, 140, 255);
+    border-bottom: 2px solid #456882;
   }
 }
 
