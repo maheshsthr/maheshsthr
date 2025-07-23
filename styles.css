@@ -11,7 +11,7 @@ nav {
   justify-content: space-between;
   box-sizing: border-box;
   padding: 20px;
-  background: rgba(33, 53, 85, 0.9);
+  background: rgba(20, 31, 50, 0.6);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(30px);
   color: #f5efe7;
@@ -328,7 +328,7 @@ footer {
   align-items: center;
   border-top: 2px solid #d8c4b6;
   flex-direction: column;
-  background-color: #213555;
+  background-color: rgba(26, 41, 66, 0.9);
   color: #f5efe7;
 }
 
