@@ -11,9 +11,23 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 </head>
 
 <body>
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+
+    AOS.init({
+      duration: 1500, // animation duration
+      offset: 120,   // offset (in px)
+    });
+
+  </script>
+
   <nav>
     <h1>
       <<span>Mahesh Suthar</span>/>
@@ -25,9 +39,9 @@
     <a href="#contact">Contact Us</a>
   </nav>
 
-  <a href="#" style="font-size: 35px;" class="up"><i class="fas fa-angles-up"></i></a>
+  <a href="#" style="font-size: 35px;" class="up"><i class="fas fa-hand-point-up"></i></i></a>
 
-  <section>
+  <section data-aos="fade-up">
 
     <div class="content" id="about">
       <p class="hi">Hi all, I'm Mahesh 👋</p>
@@ -56,7 +70,7 @@
 
 
 
-  <section class="skills" id="skills">
+  <section class="skills" id="skills" data-aos="fade-left">
 
     <div class="anim">
       <dotlottie-wc src="https://lottie.host/236ed647-e7a3-4df2-bfe2-1864624c7f23/gvquRPafJ3.lottie"
@@ -83,7 +97,7 @@
 
   </section>
 
-  <div class="education" id="education">
+  <div class="education" id="education" data-aos="fade-right">
     <p class="hi" style="font-weight: normal;">Education</p>
     <div class="edu-card">
       <img src="tower.png" height="80px" width="40px">
