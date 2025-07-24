@@ -162,6 +162,10 @@ section div {
     gap: 30px;
   }
 
+  .skills {
+    flex-direction: column-reverse;
+  }
+
   section div {
     max-width: 90vw;
   }
