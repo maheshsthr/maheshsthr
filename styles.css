@@ -294,15 +294,21 @@ footer {
 
 }
 
-#themeToggle {
-  background-color: white;
-  color: black;
-  border: 2px solid black;
-  padding: 10px;
-  border-radius: 8px;
+#themeToggle{
   cursor: pointer;
-  transition: 0.3s;
+  background-color: white;
+  padding: 15px;
+  border: 0px;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 1px;
+  &:hover {
+    background-color: rgb(240, 240, 240);
+  }
 }
+
+
 
 .edu-card  img {
   box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.2);
@@ -375,5 +381,4 @@ body .dark-mode .edu-card p a {
 body.dark-mode #themeToggle {
   background-color: transparent;
   color: white;
-  border: 2px solid white;
 }
