@@ -366,7 +366,7 @@ body.dark-mode .project-card {
 }
 
 body.dark-mode .project-card:hover {
-  background: #030059;
+  background: #020038;
 }
 
 body.dark-mode footer {
@@ -374,11 +374,18 @@ body.dark-mode footer {
   color: white;
 }
 
-body .dark-mode .edu-card p a {
+body.dark-mode .edu-card p a {
   color:white;
 }
 
 body.dark-mode #themeToggle {
   background-color: transparent;
   color: white;
+}
+
+body.dark-mode .up {
+  color: white;
+  &:hover {
+    color: rgb(240, 240, 240);
+  }
 }
