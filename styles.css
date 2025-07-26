@@ -384,4 +384,19 @@ body.dark-mode .up {
     flex-direction: column;
     width: 100%;
   }
+  .project-card div {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+}
+
+.project-card div a {
+  flex: 1 1 120px;
+  max-width: 45%;
+  text-align: center;
+  word-break: break-word;
+}
+
 }
