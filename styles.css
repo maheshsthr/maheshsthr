@@ -219,6 +219,7 @@ section div {
   justify-content: space-between;
   align-items: center;
   gap: 15px;
+  min-width: 0px;
   padding: 25px;
   border-radius: 15px;
   background: white;
@@ -248,6 +249,7 @@ section div {
   border-radius: 8px;
   transition: 0.3s;
   border: 2px solid transparent;
+  word-break: break-word;
 }
 
 .project-card div a:hover {
