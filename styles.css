@@ -213,12 +213,7 @@ section div {
 }
 
 .project-card {
-  flex: 1 1 300px;
-  min-width: 0;
-  max-width: 340px;
-  word-break: break-word;
-  overflow-wrap: break-word;
-  box-sizing: border-box;
+  flex: 1 1 300px; /* 👈 responsive base width, allows equal height */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -230,8 +225,8 @@ section div {
   box-shadow: 0 6px 20px rgba(90, 0, 125, 0.1);
   transition: 0.3s;
   border: 2px solid transparent;
+  max-width: 350px;
 }
-
 
 
 .project-card:hover {
@@ -242,9 +237,6 @@ section div {
 
 .project-card div {
   display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  justify-content: center;
   gap: 10px;
 }
 
