@@ -6,6 +6,11 @@
   flex-wrap: wrap;
 }
 
+html {
+  overflow-x: hidden;
+}
+
+
 body {
   font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
@@ -204,11 +209,14 @@ section div {
   justify-content: center;
   gap: 30px;
   padding: 2px;
+  align-items: stretch; /* 👈 ensures height matches tallest */
 }
 
 .project-card {
+  flex: 1 1 300px; /* 👈 responsive base width, allows equal height */
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   align-items: center;
   gap: 15px;
   padding: 25px;
@@ -217,9 +225,9 @@ section div {
   box-shadow: 0 6px 20px rgba(90, 0, 125, 0.1);
   transition: 0.3s;
   border: 2px solid transparent;
-  width: 100%;
   max-width: 350px;
 }
+
 
 .project-card:hover {
   transform: translateY(-5px);
