@@ -213,13 +213,12 @@ section div {
 }
 
 .project-card {
-  flex: 1 1 300px; /* 👈 responsive base width, allows equal height */
+  flex: 1 1 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   gap: 15px;
-  min-width: 0px;
   padding: 25px;
   border-radius: 15px;
   background: white;
@@ -227,7 +226,13 @@ section div {
   transition: 0.3s;
   border: 2px solid transparent;
   max-width: 350px;
+
+  /* ✅ FIXED: These 3 lines */
+  min-width: 0;
+  box-sizing: border-box;
+  overflow: hidden;
 }
+
 
 
 .project-card:hover {
@@ -238,8 +243,12 @@ section div {
 
 .project-card div {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
   gap: 10px;
 }
+
 
 .project-card div a {
   background-color: rgb(90, 0, 125);
@@ -249,8 +258,15 @@ section div {
   border-radius: 8px;
   transition: 0.3s;
   border: 2px solid transparent;
+
+  /* ✅ FIXED */
+  max-width: 48%;
+  flex: 1 1 120px;
+  text-align: center;
   word-break: break-word;
+  box-sizing: border-box;
 }
+
 
 .project-card div a:hover {
   background-color: transparent;
