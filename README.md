@@ -34,7 +34,6 @@
 ## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/@str_mhes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/str_mhes)
-[![Dev.to](https://img.shields.io/badge/@msx31-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msx31)
 [![Snapchat](https://img.shields.io/badge/@str_maheshh-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/str_maheshh)
 [![GitHub](https://img.shields.io/badge/@maheshsthr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshsthr)
 
