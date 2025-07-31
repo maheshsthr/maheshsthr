@@ -1,11 +1,11 @@
 ### Hey there! 
 <h1>I'm Mahesh ⚡</h1>
-<h2>
+<h4>
   💻 &nbsp;A Frontend Developer from Ahmedabad, India.<br>
   💚 &nbsp;I love building clean, responsive, and colorful websites using HTML & CSS.<br>
   🎯 &nbsp;Focused on UI that feels smooth, minimal, and professional.<br>
   📚 &nbsp;Currently learning Java & JavaScript to enhance my web skills.
-</h2>
+</h4>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=maheshsthr&style=for-the-badge" alt="GitHub Profile Views" />
