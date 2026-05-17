@@ -50,10 +50,4 @@ I enjoy turning simple ideas into **modern UI interfaces** using HTML, CSS, and 
 
 ---
 
-## 💡 Fun Fact
-
-I like building UI that feels like Apple products — clean, minimal, and premium.
-
----
-
 ⭐ Thanks for visiting my profile!
