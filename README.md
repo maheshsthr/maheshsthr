@@ -33,11 +33,6 @@ I enjoy turning simple ideas into **modern UI interfaces** using HTML, CSS, and 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshsthr&show_icons=true&theme=default)
-
----
 
 ## 🔥 Currently Learning
 
