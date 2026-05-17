@@ -6,7 +6,7 @@
 
 ## 🍏 About Me
 
-I build **clean, minimal, and responsive web experiences** inspired by Apple’s design philosophy.
+I build **clean, minimal, and responsive web experiences**.
 
 Currently pursuing **BS in Computer Applications** at Gujarat University.
 
@@ -27,7 +27,7 @@ I enjoy turning simple ideas into **modern UI interfaces** using HTML, CSS, and 
 
 ## 📌 Projects
 
-- 🍏 Portfolio Website – Apple-inspired personal portfolio
+- 🍏 Portfolio Website – personal portfolio
 - 🏠 Property Listing Website – City-based real estate UI
 - 🧑‍💻 Apple Education Store Clone – Static Apple UI page
 
