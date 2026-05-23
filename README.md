@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahesh Suthar
 
-🚀 Web Developer | UI Enthusiast | Clean Design Lover
+🚀 Web Developer | UI Enthusiast
 
 ---
 
