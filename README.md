@@ -30,6 +30,7 @@ I enjoy turning simple ideas into **modern UI interfaces** using HTML, CSS, and 
 - 🍏 Portfolio Website – personal portfolio
 - 🏠 Property Listing Website – City-based real estate UI
 - 🧑‍💻 Apple Education Store Clone – Static Apple UI page
+- 💵 Expense Tracker (VibeCoding)
 
 ---
 
