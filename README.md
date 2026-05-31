@@ -6,7 +6,7 @@
 
 ## 🍏 About Me
 
-I build **clean, minimal, and responsive web experiences**.
+I build **clean and responsive web experiences**.
 
 Currently pursuing **BS in Computer Applications** at LJ College of Computer Applications (Gujarat University).
 
