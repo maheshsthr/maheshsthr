@@ -8,7 +8,7 @@
 
 I build **clean, minimal, and responsive web experiences**.
 
-Currently pursuing **BS in Computer Applications** at Gujarat University.
+Currently pursuing **BS in Computer Applications** at LJ College of Computer Applications (Gujarat University).
 
 I enjoy turning simple ideas into **modern UI interfaces** using HTML, CSS, and JavaScript.
 
