@@ -1,93 +1,55 @@
-# Mahesh Suthar
+# Hi, I'm Mahesh Suthar 👋
 
-### 💻 Aspiring MERN Stack Software Developer
+### Aspiring MERN Stack Software Developer
 
----
-
-## ⚙️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS3-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![React](https://img.shields.io/badge/React-Learning-61DAFB)
+A detail-oriented frontend developer transitioning into full-stack engineering. Focused on building clean, performant, and user-centric web applications with modern web technologies. 
 
 ---
 
-## 📊 MERN Stack Progress
+## 🛠️ Tech Stack & Learning Roadmap
 
-```text
-HTML        ██████████ 100%
-CSS         ██████████ 100%
-JavaScript  ████████░░  80%
-React       ██████░░░░  60%
-Node.js     ░░░░░░░░░░  0%
-Express     ░░░░░░░░░░  0%
-MongoDB     ░░░░░░░░░░  0%
-```
----
-## 🚀 About Development Path
+### MERN Stack Progress
+Below is the current milestone tracking for my full-stack specialization:
 
-Currently focused on transitioning from frontend development to full-stack engineering with the MERN stack:
+| Technology | Status | Progress Visualizer |
+| :--- | :--- | :--- |
+| **HTML5 / CSS3** | `Completed` | ████████████████████ 100% |
+| **JavaScript (ES6+)** | `Completed` | ████████████████████ 100% |
+| **React.js** | `In Progress` | ██████████░░░░░░░░░░ 50% |
+| **Node.js** | `Upcoming` | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| **Express.js** | `Upcoming` | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| **MongoDB** | `Upcoming` | ░░░░░░░░░░░░░░░░░░░░ 0% |
 
-- Strengthening React.js fundamentals  
-- Preparing backend skills (Node.js + Express)  
-- Learning MongoDB database design  
-- Building real-world full-stack projects  
+
 
 ---
 
-## 💼 Projects
+## 📂 Featured Projects
 
-### 🔹 Personal Portfolio
-Minimal and responsive portfolio showcasing skills and projects with smooth UI interactions.
+### 01 · Personal Portfolio
+A clean, responsive portfolio showcasing skills, projects, and contact info — designed with a minimalist aesthetic and smooth micro-interactions.
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* 🔗 [Live Preview](https://msx31.vercel.app) | 💻 [Source Code](https://github.com/maheshsthr/msx31)
 
-- HTML, CSS, JavaScript  
-- 🔗 Live: https://msx31.vercel.app  
-- 💻 Code: https://github.com/maheshsthr/msx31  
+### 02 · Real Estate Platform
+A modern property listing platform with filterable listings, detailed property cards, and intuitive navigation built for clarity and ease of browsing.
+* **Tech Stack:** HTML5, CSS3
+* 🔗 [Live Preview](https://amdavadbyms.vercel.app) | 💻 [Source Code](https://github.com/maheshsthr/amdavadbyms)
 
----
+### 03 · Apple Store UI Clone
+A pixel-perfect Apple Store product page recreation demonstrating mastery of layout, typography, and the Apple design language.
+* **Tech Stack:** HTML5, CSS3
+* 🔗 [Live Preview](https://appleui-ms.vercel.app) | 💻 [Source Code](https://github.com/maheshsthr/appleui)
 
-### 🔹 Real Estate Platform
-Filterable property listing platform with clean UI and structured browsing experience.
-
-- HTML, CSS  
-- 🔗 Live: https://amdavadbyms.vercel.app  
-- 💻 Code: https://github.com/maheshsthr/amdavadbyms  
-
----
-
-### 🔹 Apple Store UI Clone
-Pixel-perfect UI replication focusing on layout precision and design accuracy.
-
-- HTML, CSS  
-- 🔗 Live: https://appleui-ms.vercel.app  
-- 💻 Code: https://github.com/maheshsthr/appleui  
-
----
-
-### 🔹 Expense Tracker
-Simple finance tracker to manage daily expenses efficiently.
-
-- HTML, CSS, JavaScript  
-- 🔗 Live: https://expbyms.vercel.app  
-- 💻 Code: https://github.com/maheshsthr/exp-tracker  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshsthr&show_icons=true&theme=radical)
+### 04 · Expense Tracker
+A simple and effective expense tracking application to help manage personal finances, built utilizing AI-assisted development workflows.
+* **Tech Stack:** HTML5, CSS3, JavaScript (Assisted by GitHub Copilot)
+* 🔗 [Live Preview](https://expbyms.vercel.app) | 💻 [Source Code](https://github.com/maheshsthr/exp-tracker)
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/maheshsthr  
-- LinkedIn: https://linkedin.com  
-- Instagram: https://instagram.com/strmhes7  
-
----
-
-## 🎯 Focus
-
-Building strong frontend fundamentals and transitioning toward full-stack MERN development with production-ready projects.
+* **GitHub:** [@maheshsthr](https://github.com/maheshsthr)
+* **LinkedIn:** [@msx31](https://linkedin.com/in/msx31)
+* **Instagram:** [@strmhes7](https://instagram.com/strmhes7)
