@@ -1,55 +1,23 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mahesh Suthar</h1>
+<h3 align="center">A passionate Backend developer from Ahmedabad, India</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:0A66C2&height=180&text=Mahesh%20Suthar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20BCA'27&descAlignY=65&descSize=18" width="100%" />
+- 🌱 I’m currently learning **JavaScript , NodeJS , Express , PostgreSQL**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Node.js+%7C+Express+%7C+PostgreSQL;BCA'27" alt="Typing SVG" />
+- 👨‍💻 All of my projects are available at [msx31.vercel.app](msx31.vercel.app)
 
-<br><br>
+- 📫 How to reach me **msx31.mahesh@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/msx31)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://msx31.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/strmhes7)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/msx31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msx31" height="30" width="40" /></a>
+</p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshsthr&show_icons=true&locale=en&layout=compact" alt="maheshsthr" /></p>
 
-## About
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshsthr&show_icons=true&locale=en" alt="maheshsthr" /></p>
 
-I am a BCA'27 student focused on backend development, working primarily with JavaScript, Node.js, Express, and PostgreSQL. I am building a strong foundation in server-side development and application design.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshsthr&" alt="maheshsthr" /></p>
 
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-## Contact
-
-<div align="center">
-
-<a href="https://linkedin.com/msx31">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-<a href="https://msx31.vercel.app">
-  <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
-</a>
-<a href="https://instagram.com/strmhes7">
-  <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,50:203a43,100:0f2027&height=80" width="100%" />
-
-</div>
