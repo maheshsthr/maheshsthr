@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=180&section=header&text=Mahesh%20Suthar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20BCA'27&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:0A66C2&height=180&text=Mahesh%20Suthar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20BCA'27&descAlignY=65&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Node.js+%7C+Express+%7C+PostgreSQL;BCA'27" alt="Typing SVG" />
 
@@ -50,6 +50,6 @@ I am a BCA'27 student focused on backend development, working primarily with Jav
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0A66C2&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,50:203a43,100:0f2027&height=80" width="100%" />
 
 </div>
