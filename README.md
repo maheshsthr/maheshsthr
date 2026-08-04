@@ -34,9 +34,15 @@ I am a BCA'27 student focused on backend development, working primarily with Jav
 
 <div align="center">
 
-| LinkedIn | Portfolio | Instagram |
-|:---:|:---:|:---:|
-| [linkedin.com/msx31](https://linkedin.com/msx31) | [msx31.vercel.app](https://msx31.vercel.app) | [@strmhes7](https://instagram.com/strmhes7) |
+<a href="https://linkedin.com/msx31">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+<a href="https://msx31.vercel.app">
+  <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+</a>
+<a href="https://instagram.com/strmhes7">
+  <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
 
 </div>
 
