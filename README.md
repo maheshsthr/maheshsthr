@@ -85,7 +85,7 @@ A simple and effective expense tracking application to help manage personal fina
 
 `JavaScript` `CSS` `HTML`
 
-Live Demo · Source
+[Live Demo ↗](https://expbymsx31.vercel.app/) · [Source ↗](https://github.com/maheshsthr/exp-tracker)
 
 </td>
 </tr>
