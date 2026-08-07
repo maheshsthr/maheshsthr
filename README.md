@@ -111,10 +111,7 @@ A simple and effective expense tracking application to help manage personal fina
 
 ## `05` &mdash; GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maheshsthr&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=A8A8A6&text_color=A8A8A6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsthr&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A8A8A6" />
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshsthr&theme=dark&hide_border=true&background=0D0D0D&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakLabel=A8A8A6" />
