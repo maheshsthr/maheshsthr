@@ -4,7 +4,7 @@
 
 **Backend Developer** · BCA candidate, 2027 · Building the parts users never see
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2E5C8A?style=flat-square)](https://github.com/maheshsthr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-2E5C8A?style=flat-square)](https://msx31.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-msx31-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/msx31)
 [![Email](https://img.shields.io/badge/Email-Msx31.mahesh%40gmail.com-3F7D5C?style=flat-square&logo=gmail&logoColor=white)](mailto:Msx31.mahesh@gmail.com)
 [![Status](https://img.shields.io/badge/status-open_to_opportunities-3F7D5C?style=flat-square)](mailto:Msx31.mahesh@gmail.com)
