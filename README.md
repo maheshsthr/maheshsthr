@@ -1,4 +1,4 @@
-# Mahesh Suthar
+# Mahesh Suthar | Pre-SDE
 
 **MERN | DSA | AI**
 
