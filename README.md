@@ -2,4 +2,4 @@
 
 **MERN | DSA | AI**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maheshsthr&theme=dark&background=0D1117&ring=2F81F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=maheshsthr&showProfilePic=false&prs=false&issues=false)](https://www.readmecodegen.com/custom-github-card-generator)
